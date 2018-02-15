@@ -5,7 +5,7 @@ The project is develped in Jupyter
 
 
 
-## main.py
+### main.py
 
 Load images
 Extract features 
@@ -15,25 +15,25 @@ Classify testSet for each feature (using Linear and Gaussian kernel)
 
 
 
-# corner_feature.py
+### corner_feature.py
 
 Extract corner detection feature for each image through the shi_tomasi function
 
 
 
-# edge_feature.py
+### edge_feature.py
 
 Extract edge detection feature for each image through the edge_detector function where compute the magnitude of the gradient for the map
 
 
 
-# hog_feature.py
+### hog_feature.py
 
 Extract Histogram of Oriented Gradients feature for each image through the hog function from the skimage library
 
 
 
-# my_SVM.py
+### my_SVM.py
 
 Create 'my_SVM_train' class to train our data
 Create 'my_SVM_pred' class to predict vector labels and the accuracy
