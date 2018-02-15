@@ -1,6 +1,7 @@
 # ML-Project
 
-The Repository includes .py files, .ipynb files and the dataset
+The Repository includes .py files, .ipynb files and the dataset.
+
 The project is develped in Jupyter
 
 
